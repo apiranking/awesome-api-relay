@@ -8,9 +8,6 @@
 每日轮换收录 100 家有公开价格数据的站点。**排名不分先后**，每天轮换数家；
 完整列表、各站详细价格、模型真假检测结果见 [apiranking.com](https://apiranking.com/)。
 
-数据来自 apiranking.com 的公开监测；该站与部分中转站有推广合作，
-但本表信息均为程序采集的客观数据。本榜不构成购买建议，下单前建议小额测试。
-
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
 | [Xyusec API](https://apiranking.com/p/xyusec-com) | `xyusec.com` | Claude GPT | 常规 | — | — | — |
