@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-08-13（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-08-14（每日自动更新）· 建议 Star 追踪
 
 ## 关于本榜
 
@@ -10,12 +10,8 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [CCTQ](https://apiranking.com/p/cctq) | `www.cctq.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
-| [Aitechflux API](https://apiranking.com/p/aitechflux-com) | `aitechflux.com` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
-| [Pateway](https://apiranking.com/p/pateway) | `pateway.ai` | Claude GPT | 常规 | — | — | — |
-| [poloai](https://apiranking.com/p/poloai) | `poloai.top` | Claude Gemini | 💰 有低价档 | — | — | — |
 | [SwitchBase](https://apiranking.com/p/switchbase-vip) | `switchbase.vip` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
-| [boxying](https://apiranking.com/p/boxying) | `boxying.com` | Claude GPT 🎨 | 💰 有低价档 | ¥1 | 支付宝 | ✓ |
+| [boxying](https://apiranking.com/p/boxying) | `boxying.com` | Claude GPT 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 | ✓ |
 | [OpenOx](https://apiranking.com/p/openox) | `openox.tech` | Claude GPT Gemini 🎨 | 常规 | ¥1 | 支付宝 | ✓ |
 | [Privnode](https://apiranking.com/p/privnode-com) | `privnode.com` | Claude 🎨 | 常规 | — | — | — |
 | [ephone](https://apiranking.com/p/api-ephone-ai) | `api.ephone.ai` | Claude GPT | 常规 | — | — | — |
@@ -110,6 +106,10 @@
 | [ClaudeAPI](https://apiranking.com/p/console-claudeapi-com) | `console.claudeapi.com` | Claude GPT | 常规 | — | — | — |
 | [NekoCode](https://apiranking.com/p/nekocode-ai) | `nekocode.ai` | Claude GPT | 常规 | ¥1 | 支付宝 / 微信 | — |
 | [ai98pro](https://apiranking.com/p/ai98pro) | `ai98pro.xyz` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
+| [Poixe AI](https://apiranking.com/p/poixe-com) | `poixe.com` | Claude GPT Gemini | 加价为主 | ¥5 | 支付宝 / 信用卡 | ✓ |
+| [Square API](https://apiranking.com/p/api-squarefaceicon-org) | `api.squarefaceicon.org` | Claude GPT 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
+| [黑黑](https://apiranking.com/p/heilovehei) | `heilovehei.com` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
+| [词元流动](https://apiranking.com/p/tokenflux-dev) | `tokenflux.dev` | GPT | 常规 | — | — | — |
 
 *池内共 192 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
