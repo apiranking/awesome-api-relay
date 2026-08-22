@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-08-21（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-08-22（每日自动更新）· 建议 Star 追踪
 
 ## 关于本榜
 
@@ -10,10 +10,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [ClaudeCN](https://apiranking.com/p/claudecn-top) | `claudecn.top` | Claude GPT Gemini | 常规 | — | — | — |
-| [卡皮巴拉API](https://apiranking.com/p/kapibala-asia) | `kapibala.asia` | GPT 🎨 | 常规 | ¥3 | 支付宝 | ✓ |
-| [Codeagent API](https://apiranking.com/p/codeagent-cloud) | `codeagent.cloud` | Claude GPT 🎨 | 常规 | — | — | — |
-| [Claude API](https://apiranking.com/p/claude-api-org) | `claude-api.org` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
 | [H API](https://apiranking.com/p/h-api) | `hapiopen.cc` | Claude GPT 🎨 | 💰 有低价档 | ¥1 | 支付宝 | ✓ |
 | [小流云](https://apiranking.com/p/ai-xlyun-pro) | `ai.xlyun.pro` | Claude GPT Gemini | 加价为主 | — | — | ✓ |
 | [闪电API](https://apiranking.com/p/ai-flashapi-top) | `ai.flashapi.top` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
@@ -110,6 +106,10 @@
 | [Handsfreeclub API](https://apiranking.com/p/handsfreeclub-com) | `handsfreeclub.com` | Claude | 💰 有低价档 | — | — | — |
 | [Die Ge](https://apiranking.com/p/die-ge) | `diegeai.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥10 | 微信 | ✓ |
 | [OneChats](https://apiranking.com/p/chatapi-onechats-top) | `chatapi.onechats.top` | Claude GPT Gemini 🎨 | 常规 | ¥1 | 支付宝 | — |
+| [PackyCode](https://apiranking.com/p/packyapi-com) | `www.packyapi.ai` | Claude GPT Gemini 🎨 | 加价为主 | ¥100 | 信用卡 / App | ✓ |
+| [DeRouter](https://apiranking.com/p/derouter-ai) | `derouter.ai` | Claude GPT | 常规 | — | 支付宝 | — |
+| [PRY API](https://apiranking.com/p/bearlab-ai) | `bearlab.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥10 | 支付宝 / 微信 | — |
+| [BUZZ](https://apiranking.com/p/buzzai-cc) | `buzzai.cc` | Claude GPT | 💰 有低价档 | ¥1 | 支付宝 / 微信 / USDT | ✓ |
 
 *池内共 192 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
