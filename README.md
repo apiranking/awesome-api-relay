@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-08-26（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-08-27（每日自动更新）· 建议 Star 追踪
 
 ## 关于本榜
 
@@ -10,10 +10,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [Ruoli API](https://apiranking.com/p/ruoli-dev) | `ruoli.dev` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
-| [537 AI](https://apiranking.com/p/537-ai-net) | `537-ai.net` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
-| [大肘子](https://apiranking.com/p/api-dzzi-ai) | `api.dzzi.ai` | Claude GPT | 💰 有低价档 | — | — | ✓ |
-| [Xiaoye API](https://apiranking.com/p/ai-xiaoye-io) | `ai.xiaoye.io` | Claude GPT 🎨 | 常规 | — | — | — |
 | [Global AI](https://apiranking.com/p/globalai-vip) | `globalai.vip` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
 | [球球Token](https://apiranking.com/p/qiuqiutoken-com) | `qiuqiutoken.com` | Claude GPT 🎨 | 常规 | — | — | ✓ |
 | [nekoapi](https://apiranking.com/p/api-nekoapi-com) | `api.nekoapi.com` | Claude GPT Gemini 🎨 | 常规 | — | 支付宝 / 微信 / USDT / Stripe | — |
@@ -110,6 +106,10 @@
 | [AutoRouter](https://apiranking.com/p/autorouter-io) | `autorouter.io` | Claude GPT Gemini | 💰 有低价档 | — | — | — |
 | [4Sapi](https://apiranking.com/p/4sapi-com) | `4sapi.com` | Claude GPT Gemini 🎨 | 常规 | — | — | ✓ |
 | [菜菜中转站](https://apiranking.com/p/rapi-asia) | `rapi.asia` | Claude GPT | 💰 有低价档 | ¥10 | 支付宝 | — |
+| [Kuaipao API](https://apiranking.com/p/kuaipao-pro) | `kuaipao.pro` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
+| [DDShub](https://apiranking.com/p/ddshub-cc) | `ddshub.cc` | Claude GPT | 💰 有低价档 | — | — | — |
+| [小瑞API](https://apiranking.com/p/xiaoruiapi-cc) | `xiaoruiapi.cc` | Claude GPT Gemini | 💰 有低价档 | — | — | — |
+| [yibuapi](https://apiranking.com/p/yibuapi) | `yibuapi.com` | Claude GPT Gemini | 常规 | — | — | — |
 
 *池内共 195 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
