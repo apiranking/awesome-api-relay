@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-08-30（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-08-31（每日自动更新）· 建议 Star 追踪
 
 ## 关于本榜
 
@@ -10,10 +10,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [DawCode](https://apiranking.com/p/dawclaudecode-com) | `dawcode.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥100 | 微信 | — |
-| [LingxiCode](https://apiranking.com/p/new-050602-xyz) | `new.050602.xyz` | Claude GPT | 常规 | ¥10 | 支付宝 / 微信 | — |
-| [聚星AI](https://apiranking.com/p/juxingai-top) | `juxingai.xyz` | Claude GPT Gemini 🎨 | 常规 | ¥10 | 支付宝 / 微信 | ✓ |
-| [Lumin AI](https://apiranking.com/p/ai-luminai-cc) | `ai.luminai.cc` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
 | [LinksAPI](https://apiranking.com/p/linksapi) | `linksapi.cn` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 / Stripe | — |
 | [RPG8](https://apiranking.com/p/api-rpg8-cn) | `api.rpg8.cn` | Claude GPT Gemini | 💰 有低价档 | — | — | — |
 | [996444](https://apiranking.com/p/api-996444-cn) | `api.996444.cn` | Gemini | 加价为主 | — | — | — |
@@ -110,6 +106,10 @@
 | [RightCode](https://apiranking.com/p/right-codes) | `rightapi.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | 支付宝 | ✓ |
 | [云影 API](https://apiranking.com/p/yyapi-cloud) | `yyapi.cloud` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 | — |
 | [xeduapi](https://apiranking.com/p/xeduapi-com) | `xeduapi.com` | GPT | 常规 | — | — | — |
+| [Bailili API](https://apiranking.com/p/bailili-api) | `api.bailili.top` | Claude GPT Gemini | 💰 有低价档 | — | 支付宝 / 微信 | — |
+| [CodeRelay](https://apiranking.com/p/coderelay-cn) | `coderelay.cn` | Claude | 💰 有低价档 | — | — | — |
+| [TimiCC](https://apiranking.com/p/timicc-com) | `timicc.com` | Claude GPT | 加价为主 | — | — | — |
+| [AiXor](https://apiranking.com/p/aixor-org) | `aixor.dev` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
 
 *池内共 194 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
