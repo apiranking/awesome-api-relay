@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-09-06（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-09-07（每日自动更新）· 建议 Star 追踪
 
 ## 关于本榜
 
@@ -10,10 +10,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [APIKEY.FUN](https://apiranking.com/p/api-apikey-fun) | `api.apikey.fun` | Claude | 💰 有低价档 | — | — | — |
-| [unity2](https://apiranking.com/p/unity2-ai) | `unity2.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 | ✓ |
-| [ClaudeAPI](https://apiranking.com/p/console-claudeapi-com) | `console.claudeapi.com` | Claude GPT | 常规 | — | — | — |
-| [NekoCode](https://apiranking.com/p/nekocode-ai) | `nekocode.ai` | Claude GPT | 常规 | ¥1 | 支付宝 / 微信 | — |
 | [ai98pro](https://apiranking.com/p/ai98pro) | `ai98pro.xyz` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
 | [Poixe AI](https://apiranking.com/p/poixe-com) | `poixe.com` | Claude GPT Gemini | 加价为主 | ¥5 | 支付宝 / 信用卡 | ✓ |
 | [Square API](https://apiranking.com/p/api-squarefaceicon-org) | `api.squarefaceicon.org` | Claude GPT 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
@@ -110,6 +106,10 @@
 | [换API](https://apiranking.com/p/huanapi-com) | `huanapi.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
 | [CCTQ](https://apiranking.com/p/cctq) | `www.cctq.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
 | [Aitechflux API](https://apiranking.com/p/aitechflux-com) | `aitechflux.com` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
+| [Pateway](https://apiranking.com/p/pateway) | `pateway.ai` | Claude GPT | 常规 | — | — | — |
+| [poloai](https://apiranking.com/p/poloai) | `poloai.top` | Claude Gemini | 💰 有低价档 | — | — | — |
+| [SwitchBase](https://apiranking.com/p/switchbase-vip) | `switchbase.vip` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
+| [boxying](https://apiranking.com/p/boxying) | `boxying.com` | Claude GPT 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 | ✓ |
 
 *池内共 194 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
