@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-09-08（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-09-09（每日自动更新）· 建议 Star 追踪
 
 ## 关于本榜
 
@@ -10,10 +10,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [词元流动](https://apiranking.com/p/tokenflux-dev) | `tokenflux.dev` | GPT | 常规 | — | — | — |
-| [lucen](https://apiranking.com/p/lucen-cc) | `xixiapi.io` | Claude GPT | 💰 有低价档 | — | — | — |
-| [ergouzi](https://apiranking.com/p/ergouzi) | `ergouzi.life` | Claude GPT | 💰 有低价档 | — | — | — |
-| [ToCodex](https://apiranking.com/p/user-tocodex-com) | `user.tocodex.com` | Claude GPT Gemini | 常规 | ¥10 | 支付宝 | — |
 | [moacode](https://apiranking.com/p/moacode) | `moacode.org` | Claude GPT 🎨 | 常规 | ¥10 | 支付宝 / 微信 / Stripe | ✓ |
 | [ClaudeApi](https://apiranking.com/p/claudeapi-com) | `apito.ai` | Claude | 常规 | — | — | — |
 | [Wytkt API](https://apiranking.com/p/wytkt-cn) | `wytkt.cn` | Claude GPT Gemini 🎨 | 加价为主 | — | — | — |
@@ -110,6 +106,10 @@
 | [Privnode](https://apiranking.com/p/privnode-com) | `privnode.com` | Claude 🎨 | 常规 | — | — | — |
 | [ephone](https://apiranking.com/p/api-ephone-ai) | `api.ephone.ai` | Claude GPT | 常规 | — | — | — |
 | [GPT Agent](https://apiranking.com/p/gpt-agent-cc) | `gpt-agent.cc` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
+| [MaynorAPI](https://apiranking.com/p/apipro-maynor1024-live) | `apipro.maynor1024.live` | Claude Gemini | 加价为主 | — | — | — |
+| [cc.580ai.net](https://apiranking.com/p/cc-580ai-net) | `cc.580ai.net` | Claude GPT | 加价为主 | — | — | — |
+| [通API](https://apiranking.com/p/tongapi-com) | `tongapi.com` | Claude GPT Gemini | 加价为主 | — | — | — |
+| [一元模型](https://apiranking.com/p/timesniper-club) | `timesniper.club` | Claude GPT Gemini 🎨 | 加价为主 | — | — | — |
 
 *池内共 194 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
