@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-09-13（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-09-14（每日自动更新）· 建议 Star 追踪
 
 ## 关于本榜
 
@@ -10,10 +10,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [lyapunov-api](https://apiranking.com/p/api-lyapunov-vector-com) | `api.lyapunov-vector.com` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
-| [Frontier Intelligence](https://apiranking.com/p/api-frontier-intelligence-tech) | `api.frontier-intelligence.tech` | Claude GPT | 常规 | — | — | — |
-| [无限API](https://apiranking.com/p/infai-cc) | `infai.cc` | Claude GPT Gemini 🎨 | 常规 | — | 支付宝 / 微信 | ✓ |
-| [AIApify](https://apiranking.com/p/aiapify-com) | `aiapify.com` | Claude GPT | 常规 | — | — | — |
 | [HolySheep AI](https://apiranking.com/p/holysheep-ai) | `holysheep.ai` | Claude GPT Gemini 🎨 | 常规 | ¥13 | 支付宝 / 微信 / USDT / Stripe | — |
 | [Ofapp API](https://apiranking.com/p/api-ofapp-cn) | `api.ofapp.cn` | GPT | 常规 | — | — | — |
 | [AI派](https://apiranking.com/p/api-aipaibox-com) | `api.aipaibox.com` | Claude GPT 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
@@ -110,6 +106,10 @@
 | [xinsuanai](https://apiranking.com/p/xinsuanai) | `xinsuanai.com` | Claude GPT Gemini | 加价为主 | — | 微信 | — |
 | [哈基米](https://apiranking.com/p/api-gemai-cc) | `api.gemai.cc` | Claude GPT Gemini | 加价为主 | — | — | — |
 | [DoroAI](https://apiranking.com/p/doro-lol) | `doro.lol` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
+| [Top-API](https://apiranking.com/p/top-api) | `api-top.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥7 | 支付宝 / 微信 | — |
+| [宅恋](https://apiranking.com/p/az-zlapi-vip) | `az.zlapi.vip` | Claude GPT Gemini | 💰 有低价档 | — | — | — |
+| [fluapi](https://apiranking.com/p/fluapi) | `fluapi.com` | Claude GPT | 加价为主 | — | — | — |
+| [BMCCA](https://apiranking.com/p/cca-maya-today) | `cca.maya.today` | Claude GPT | 💰 有低价档 | — | — | — |
 
 *池内共 195 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
