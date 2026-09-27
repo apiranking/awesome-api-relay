@@ -111,6 +111,8 @@
 | [AI 搬运工](https://apiranking.com/p/aimover-cc) | `aimover.cc` | Claude GPT | 💰 有低价档 | ¥1 | 支付宝 | ✓ |
 | [78 Code](https://apiranking.com/p/api-78code-cc) | `api.78code.cc` | Claude GPT Gemini | 💰 有低价档 | — | — | — |
 
+
+| [APIClaw](https://apiclaw.biz) | `apiclaw.biz` | Claude GPT Kimi Qwen DeepSeek GLM | 50-request trial / $19-$129/mo | - | - | - |
 *池内共 197 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
 ## 怎么用这张表
