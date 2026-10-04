@@ -2,6 +2,8 @@
 
 > 最后更新：2026-10-04（每日自动更新）· 建议 Star 追踪
 
+**按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
+
 ## 关于本榜
 
 从 [apiranking.com](https://apiranking.com/) 持续监测的 300 余家 AI API 中转站中，
