@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-10-05（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-10-06（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [一元模型](https://apiranking.com/p/timesniper-club) | `timesniper.club` | Claude GPT Gemini 🎨 | 加价为主 | — | — | — |
-| [A6API](https://apiranking.com/p/a6api) | `a6api.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
-| [Undying](https://apiranking.com/p/vip-undyingapi-com) | `vip.undyingapi.com` | Claude Gemini | 加价为主 | — | — | — |
-| [SSSAICode](https://apiranking.com/p/sssaicode-com) | `sssaiapi.com` | Claude GPT Gemini | 💰 有低价档 | ¥10 | 支付宝 / USDT | ✓ |
 | [Xcode](https://apiranking.com/p/xcode-best) | `xcode.best` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 | ✓ |
 | [汪汪の中转站](https://apiranking.com/p/qianweikeji-fun) | `qianweikeji.fun` | Claude GPT | 加价为主 | — | — | — |
 | [Uiuihao API](https://apiranking.com/p/api-uiuihao-com) | `api.uiuihao.com` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
@@ -112,6 +108,10 @@
 | [ClaudeApi](https://apiranking.com/p/claudeapi-com) | `apito.ai` | Claude | 💰 有低价档 | — | — | — |
 | [Wytkt API](https://apiranking.com/p/wytkt-cn) | `wytkt.cn` | Claude GPT Gemini 🎨 | 加价为主 | — | — | — |
 | [GPTeam](https://apiranking.com/p/portal-gpteamservices-com) | `portal.gpteamservices.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥7 | 支付宝 / 微信 | — |
+| [AI8](https://apiranking.com/p/ai8-my) | `ai8.my` | Claude GPT 🎨 | 常规 | — | — | — |
+| [XTokenMirror](https://apiranking.com/p/xtokenmirror-cn) | `xtokenmirror.cn` | Claude GPT Gemini | 💰 有低价档 | — | — | — |
+| [Sublyx](https://apiranking.com/p/sublyx) | `sublyx.org` | Claude GPT 🎨 | 加价为主 | — | — | — |
+| [UU API](https://apiranking.com/p/uuapi-net) | `uuapi.io` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 | ✓ |
 
 *池内共 197 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
