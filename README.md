@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-10-07（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-10-08（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [我的刀盾](https://apiranking.com/p/daodunapi-com) | `daodunapi.com` | Claude | 加价为主 | — | — | — |
-| [api.68886868.xyz](https://apiranking.com/p/api-68886868-xyz) | `api.68886868.xyz` | Claude GPT Gemini | 常规 | — | — | — |
-| [Neco Api](https://apiranking.com/p/api-sbbbbbbbbb-xyz) | `api.sbbbbbbbbb.xyz` | Claude GPT 🎨 | 加价为主 | — | — | — |
-| [kksj](https://apiranking.com/p/cnapi-kksj-org) | `cnapi.kksj.org` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
 | [空悲切API](https://apiranking.com/p/xn--vduyey89e-com) | `xn--vduyey89e.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | 支付宝 / 微信 | — |
 | [xinsuanai](https://apiranking.com/p/xinsuanai) | `xinsuanai.com` | Claude GPT Gemini | 加价为主 | — | 微信 | — |
 | [哈基米](https://apiranking.com/p/api-gemai-cc) | `api.gemai.cc` | Claude GPT Gemini | 加价为主 | — | — | — |
@@ -112,6 +108,10 @@
 | [UU API](https://apiranking.com/p/uuapi-net) | `uuapi.io` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 | ✓ |
 | [Suan Niao API](https://apiranking.com/p/api-suanniao-shop) | `api.suanniao.shop` | Claude GPT | 💰 有低价档 | — | — | — |
 | [EasyAI](https://apiranking.com/p/easyai-host) | `easyai.host` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
+| [Dadakeji API](https://apiranking.com/p/dadakeji-com) | `dadakeji.com` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
+| [ePhone AI](https://apiranking.com/p/ephone-ai) | `ephone.ai` | Claude GPT | 加价为主 | — | — | ✓ |
+| [synterolink](https://apiranking.com/p/synterolink) | `synterolink.com` | Claude GPT 🎨 | 💰 有低价档 | ¥20 | 支付宝 / 微信 / USDT | — |
+| [QweApi](https://apiranking.com/p/qweapi) | `qweapi.com` | Claude GPT 🎨 | 常规 | — | — | — |
 
 *池内共 198 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
