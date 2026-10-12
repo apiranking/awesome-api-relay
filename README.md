@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-10-11（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-10-12（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [corealgos](https://apiranking.com/p/corealgos) | `corealgos.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 微信 | — |
-| [Claude API](https://apiranking.com/p/claude-api-org) | `claude-api.org` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
-| [H API](https://apiranking.com/p/h-api) | `hapiopen.cc` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 | ✓ |
-| [小流云](https://apiranking.com/p/ai-xlyun-pro) | `ai.xlyun.pro` | Claude GPT Gemini | 加价为主 | — | — | ✓ |
 | [闪电API](https://apiranking.com/p/ai-flashapi-top) | `ai.flashapi.top` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
 | [luccc](https://apiranking.com/p/api-luccc-uk) | `api.luccc.uk` | GPT | 💰 有低价档 | — | — | — |
 | [OPE AI](https://apiranking.com/p/platform-ope-ai) | `platform.ope.ai` | Claude GPT Gemini | 常规 | — | — | — |
@@ -112,6 +108,10 @@
 | [AI派](https://apiranking.com/p/api-aipaibox-com) | `api.aipaibox.com` | Claude GPT 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
 | [SparkCode](https://apiranking.com/p/sparkcode-top) | `sparkcode.top` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
 | [Handsfreeclub API](https://apiranking.com/p/handsfreeclub-com) | `handsfreeclub.com` | Claude | 💰 有低价档 | — | — | — |
+| [Die Ge](https://apiranking.com/p/die-ge) | `diegeai.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥10 | 微信 | ✓ |
+| [OneChats](https://apiranking.com/p/chatapi-onechats-top) | `chatapi.onechats.top` | Claude GPT Gemini 🎨 | 常规 | ¥1 | 支付宝 | — |
+| [PackyCode](https://apiranking.com/p/packyapi-com) | `www.packyapi.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥100 | 信用卡 / App | ✓ |
+| [DeRouter](https://apiranking.com/p/derouter-ai) | `derouter.ai` | Claude GPT | 常规 | — | 支付宝 | — |
 
 *池内共 199 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
