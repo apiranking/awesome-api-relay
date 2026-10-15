@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-10-14（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-10-15（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [FastCode](https://apiranking.com/p/api-timebackward-com) | `api.timebackward.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
-| [FK Claude](https://apiranking.com/p/fkclaude-xyz) | `fkclaude.xyz` | Claude | 💰 有低价档 | — | — | ✓ |
-| [代码狗](https://apiranking.com/p/ai-codepup-cn) | `ai.codepup.cn` | Claude GPT | 💰 有低价档 | ¥5 | 支付宝 / 微信 | ✓ |
-| [OhMyGPT](https://apiranking.com/p/x-dogenet-win) | `x.dogenet.win` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
 | [Ruoli API](https://apiranking.com/p/ruoli-dev) | `ruoli.dev` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
 | [537 AI](https://apiranking.com/p/537-ai-net) | `537-ai.net` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
 | [大肘子](https://apiranking.com/p/api-dzzi-ai) | `api.dzzi.ai` | Claude GPT | 💰 有低价档 | — | — | ✓ |
@@ -112,6 +108,10 @@
 | [Cooper-API](https://apiranking.com/p/cooper-api-com) | `cooper-api.com` | Claude GPT Gemini 🎨 | 常规 | ¥7 | 微信 | — |
 | [Dualseason API](https://apiranking.com/p/dualseason-com) | `dualseason.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
 | [Muxueai API](https://apiranking.com/p/muxueai-pro) | `muxueai.pro` | Claude GPT 🎨 | 加价为主 | — | — | — |
+| [云雾AI](https://apiranking.com/p/yunwu-ai) | `yunwu.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 / USDT | ✓ |
+| [LLM-ALL API](https://apiranking.com/p/llm-all-pro) | `llm-all.pro` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
+| [小马API](https://apiranking.com/p/xiaoma-best) | `xiaoma.best` | Claude GPT | 常规 | ¥1 | 微信 | — |
+| [LMU AI · 灵眸](https://apiranking.com/p/api-lmuai-com) | `api.lmuai.ai` | Claude GPT Gemini 🎨 | 常规 | ¥1 | 支付宝 / 微信 | ✓ |
 
 *池内共 199 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
