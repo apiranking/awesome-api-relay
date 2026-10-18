@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-10-17（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-10-18（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [api.meai.cloud](https://apiranking.com/p/api-meai-cloud) | `api.meai.cloud` | Claude | 加价为主 | — | — | — |
-| [V-API](https://apiranking.com/p/api-gpt-ge) | `api.gpt.ge` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥12.5 | 微信 / USDT | ✓ |
-| [PixelMuse](https://apiranking.com/p/pixelmuse-shop) | `pixelmuse.shop` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
-| [Xiamiapi](https://apiranking.com/p/xiamiapi-xyz) | `xiamiapi.xyz` | Claude GPT | 加价为主 | — | — | — |
 | [WorldBase.ai](https://apiranking.com/p/worldbase-ai) | `worldbase.ai` | Claude GPT Gemini | 常规 | ¥10 | 支付宝 | — |
 | [Token云桥](https://apiranking.com/p/0029-org) | `api.quya.org` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥100 | 支付宝 / 微信 / USDT | — |
 | [AIAPI World](https://apiranking.com/p/aiapi-world) | `aiapi.world` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
@@ -112,6 +108,10 @@
 | [小瑞API](https://apiranking.com/p/xiaoruiapi-cc) | `xiaoruiapi.cc` | Claude GPT Gemini | 💰 有低价档 | — | — | — |
 | [yibuapi](https://apiranking.com/p/yibuapi) | `yibuapi.com` | Claude GPT Gemini | 常规 | — | — | — |
 | [ByteCat](https://apiranking.com/p/bytecatcode-org) | `bytecatcode.org` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥10 | 支付宝 | ✓ |
+| [Prism API](https://apiranking.com/p/prismapi-site) | `prismapi.site` | Claude GPT | 💰 有低价档 | — | — | — |
+| [Codex2API](https://apiranking.com/p/codex2api) | `codex2api.com` | Claude GPT 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 | — |
+| [SunnyPumpkinAPI](https://apiranking.com/p/gua-guagua-uk) | `gua.guagua.uk` | Claude GPT Gemini | 💰 有低价档 | — | — | — |
+| [ZIVV](https://apiranking.com/p/zivv-pro) | `zivv.pro` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥5 | 支付宝 / 微信 / USDT / USDC | ✓ |
 
 *池内共 199 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
