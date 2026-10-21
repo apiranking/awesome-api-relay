@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-10-20（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-10-21（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [聚星AI](https://apiranking.com/p/juxingai-top) | `juxingai.xyz` | Claude GPT Gemini 🎨 | 常规 | ¥10 | 支付宝 / 微信 | ✓ |
-| [Lumin AI](https://apiranking.com/p/ai-luminai-cc) | `ai.luminai.cc` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
-| [LinksAPI](https://apiranking.com/p/linksapi) | `linksapi.cn` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 / Stripe | — |
-| [RPG8](https://apiranking.com/p/api-rpg8-cn) | `api.rpg8.cn` | Claude GPT Gemini | 💰 有低价档 | — | — | — |
 | [996444](https://apiranking.com/p/api-996444-cn) | `api.996444.cn` | Gemini | 加价为主 | — | — | — |
 | [老张 API](https://apiranking.com/p/api-laozhang-ai) | `api.laozhang.ai` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
 | [LinkAI](https://apiranking.com/p/linkai) | `linkai.pics` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥5 | 支付宝 | ✓ |
@@ -47,12 +43,12 @@
 | [ai98pro](https://apiranking.com/p/ai98pro) | `ai98pro.xyz` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
 | [Poixe AI](https://apiranking.com/p/poixe-com) | `poixe.com` | Claude GPT Gemini | 加价为主 | ¥5 | 支付宝 / 信用卡 | ✓ |
 | [Square API](https://apiranking.com/p/api-squarefaceicon-org) | `api.squarefaceicon.org` | Claude GPT 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
+| [CodingRouter](https://apiranking.com/p/codingrouter) | `api.codingrouter.ai` | Claude GPT Gemini 🎨 | 常规 | ¥10 | Stripe | — |
 | [黑黑](https://apiranking.com/p/heilovehei) | `heilovehei.com` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
 | [词元流动](https://apiranking.com/p/tokenflux-dev) | `tokenflux.dev` | GPT | 常规 | — | — | — |
 | [lucen](https://apiranking.com/p/lucen-cc) | `xixiapi.io` | Claude GPT | 💰 有低价档 | — | — | — |
 | [ergouzi](https://apiranking.com/p/ergouzi) | `ergouzi.life` | Claude GPT | 💰 有低价档 | — | — | — |
 | [ToCodex](https://apiranking.com/p/user-tocodex-com) | `user.tocodex.com` | Claude GPT Gemini | 常规 | ¥10 | 支付宝 | — |
-| [moacode](https://apiranking.com/p/moacode) | `moacode.org` | Claude GPT 🎨 | 💰 有低价档 | ¥10 | 支付宝 / 微信 / Stripe | ✓ |
 | [ClaudeApi](https://apiranking.com/p/claudeapi-com) | `apito.ai` | Claude GPT Gemini 🎨 | 加价为主 | $1 | Stripe | ✓ |
 | [Wytkt API](https://apiranking.com/p/wytkt-cn) | `wytkt.cn` | Claude GPT Gemini 🎨 | 加价为主 | — | — | — |
 | [GPTeam](https://apiranking.com/p/portal-gpteamservices-com) | `portal.gpteamservices.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥7 | 支付宝 / 微信 | — |
@@ -67,7 +63,7 @@
 | [synterolink](https://apiranking.com/p/synterolink) | `synterolink.com` | Claude GPT 🎨 | 💰 有低价档 | ¥20 | 支付宝 / 微信 / USDT | — |
 | [QweApi](https://apiranking.com/p/qweapi) | `qweapi.com` | Claude GPT 🎨 | 常规 | — | — | — |
 | [9527code](https://apiranking.com/p/9527code-com) | `9527code.com` | Claude GPT 🎨 | 💰 有低价档 | ¥1 | 支付宝 | ✓ |
-| [OmniaKey](https://apiranking.com/p/omniakey) | `omniakey.com` | Claude GPT Gemini | 常规 | ¥3 | Stripe / 加密货币 / Apple Pay / Google Pay） | ✓ |
+| [OmniaKey](https://apiranking.com/p/omniakey) | `omniakey.com` | Claude GPT Gemini | 常规 | ¥5 | 支付宝 / Stripe | ✓ |
 | [lyapunov-api](https://apiranking.com/p/api-lyapunov-vector-com) | `api.lyapunov-vector.com` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
 | [Frontier Intelligence](https://apiranking.com/p/api-frontier-intelligence-tech) | `api.frontier-intelligence.tech` | Claude GPT | 常规 | — | — | — |
 | [无限API](https://apiranking.com/p/infai-cc) | `infai.cc` | Claude GPT Gemini 🎨 | 常规 | — | 支付宝 / 微信 | ✓ |
@@ -112,6 +108,10 @@
 | [Agent Router](https://apiranking.com/p/agentrouter-org) | `agentrouter.org` | Claude GPT | 加价为主 | — | — | — |
 | [RightCode](https://apiranking.com/p/right-codes) | `rightapi.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | 支付宝 | ✓ |
 | [云影 API](https://apiranking.com/p/yyapi-cloud) | `yyapi.cloud` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 | — |
+| [xeduapi](https://apiranking.com/p/xeduapi-com) | `xeduapi.com` | GPT | 常规 | — | — | — |
+| [Luxery API](https://apiranking.com/p/luxery-api) | `luxerycaseglobal.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | 支付宝 / 微信 | ✓ |
+| [Bailili API](https://apiranking.com/p/bailili-api) | `api.bailili.top` | Claude GPT Gemini | 💰 有低价档 | — | 支付宝 / 微信 | — |
+| [CodeRelay](https://apiranking.com/p/coderelay-cn) | `coderelay.cn` | Claude | 💰 有低价档 | — | — | — |
 
 *池内共 200 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
