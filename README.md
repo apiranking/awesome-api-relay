@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-10-22（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-10-23（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [Sum API](https://apiranking.com/p/api-clawopen-top) | `api.clawopen.top` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
-| [镜核 AI](https://apiranking.com/p/ai-17nas-com) | `ai.17nas.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥10 | — | — |
-| [AI 搬运工](https://apiranking.com/p/aimover-cc) | `aimover.cc` | Claude GPT | 💰 有低价档 | ¥1 | 支付宝 | ✓ |
-| [78 Code](https://apiranking.com/p/api-78code-cc) | `api.78code.cc` | Claude GPT Gemini | 💰 有低价档 | — | — | — |
 | [api.code-relay.com](https://apiranking.com/p/api-code-relay-com) | `api.code-relay.com` | Claude GPT | 加价为主 | — | — | — |
 | [Bob API](https://apiranking.com/p/bobdong-cn) | `bobdong.cn` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥10 | 支付宝 | ✓ |
 | [AI Chat](https://apiranking.com/p/chat-ekti-cc) | `chat.ekti.cc` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
@@ -27,14 +23,14 @@
 | [万象](https://apiranking.com/p/wangxiangai-org) | `wangxiangai.org` | Claude GPT Gemini | 常规 | — | — | — |
 | [Umiluxury API](https://apiranking.com/p/umiluxury-com) | `umiluxury.com` | Claude GPT | 💰 有低价档 | — | — | — |
 | [Cavoti AI](https://apiranking.com/p/cavoti-ai) | `cavoti.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 / USDT / Stripe | — |
-| [三头牛](https://apiranking.com/p/36niu-com) | `36niu.com` | Claude GPT Gemini 🎨 | 加价为主 | ¥7 | 微信 | ✓ |
+| [三头牛](https://apiranking.com/p/36niu-com) | `36niu.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥7 | 微信 | ✓ |
 | [炒饭兽](https://apiranking.com/p/chaofanshou-com) | `chaofanshou.com` | Claude | 常规 | — | — | — |
 | [YunServer API](https://apiranking.com/p/api-yunserver-cn) | `api.yunserver.cn` | Claude GPT | 💰 有低价档 | — | — | — |
 | [Kkaiapi](https://apiranking.com/p/kkaiapi-com) | `kkaiapi.com` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
 | [星辰](https://apiranking.com/p/ai-centos-hk) | `ai.centos.hk` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 / Stripe | — |
 | [APIKEY.FUN](https://apiranking.com/p/api-apikey-fun) | `api.apikey.fun` | Claude | 💰 有低价档 | — | — | — |
 | [unity2](https://apiranking.com/p/unity2-ai) | `unity2.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 | ✓ |
-| [ClaudeAPI](https://apiranking.com/p/console-claudeapi-com) | `console.claudeapi.com` | Claude GPT | 💰 有低价档 | — | — | — |
+| [ClaudeAPI](https://apiranking.com/p/console-claudeapi-com) | `console.claudeapi.com` | Claude GPT | 常规 | — | — | — |
 | [NekoCode](https://apiranking.com/p/nekocode-ai) | `nekocode.ai` | Claude GPT | 常规 | ¥1 | 支付宝 / 微信 | — |
 | [ai98pro](https://apiranking.com/p/ai98pro) | `ai98pro.xyz` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
 | [Poixe AI](https://apiranking.com/p/poixe-com) | `poixe.com` | Claude GPT Gemini | 加价为主 | ¥5 | 支付宝 / 信用卡 | ✓ |
@@ -112,6 +108,10 @@
 | [AiXor](https://apiranking.com/p/aixor-org) | `aixor.dev` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
 | [HoHoApi](https://apiranking.com/p/hohoapi) | `hohoapi.com` | Claude GPT Gemini 🎨 | 加价为主 | — | — | — |
 | [ai.bytonsec.com](https://apiranking.com/p/ai-bytonsec-com) | `ai.bytonsec.com` | Claude Gemini | 加价为主 | — | — | — |
+| [APINebula](https://apiranking.com/p/apinebula-com) | `apinebula.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥20 | 支付宝 | ✓ |
+| [Xyusec API](https://apiranking.com/p/xyusec-com) | `xyusec.com` | Claude GPT | 💰 有低价档 | — | — | — |
+| [cc.honoursoft.cn](https://apiranking.com/p/cc-honoursoft-cn) | `cc.honoursoft.cn` | Claude | 加价为主 | — | — | — |
+| [jojocode](https://apiranking.com/p/jojocode) | `jojocode.com` | Claude GPT | 💰 有低价档 | — | Stripe | — |
 
 *池内共 200 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
