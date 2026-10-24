@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-10-23（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-10-24（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [api.code-relay.com](https://apiranking.com/p/api-code-relay-com) | `api.code-relay.com` | Claude GPT | 加价为主 | — | — | — |
-| [Bob API](https://apiranking.com/p/bobdong-cn) | `bobdong.cn` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥10 | 支付宝 | ✓ |
-| [AI Chat](https://apiranking.com/p/chat-ekti-cc) | `chat.ekti.cc` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
-| [lanyiapi](https://apiranking.com/p/lanyiapi) | `lanyiapi.com` | Claude GPT | 常规 | — | — | — |
 | [ByteClaude](https://apiranking.com/p/claude-bestswifter-com) | `claude.bestswifter.com` | Claude GPT Gemini | 💰 有低价档 | — | — | — |
 | [LinkAPI](https://apiranking.com/p/linkapi-ai) | `linkapi.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 | — |
 | [合聚API](https://apiranking.com/p/hejuapi-com) | `hejuapi.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥5 | 支付宝 / 微信 | ✓ |
@@ -112,6 +108,10 @@
 | [Xyusec API](https://apiranking.com/p/xyusec-com) | `xyusec.com` | Claude GPT | 💰 有低价档 | — | — | — |
 | [cc.honoursoft.cn](https://apiranking.com/p/cc-honoursoft-cn) | `cc.honoursoft.cn` | Claude | 加价为主 | — | — | — |
 | [jojocode](https://apiranking.com/p/jojocode) | `jojocode.com` | Claude GPT | 💰 有低价档 | — | Stripe | — |
+| [柏API](https://apiranking.com/p/byeapi-top) | `byeapi.top` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
+| [Traxnode](https://apiranking.com/p/traxnode-com) | `traxnode.com` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
+| [哩喵中转栈](https://apiranking.com/p/limiao-net) | `limiao.net` | Claude GPT Gemini | 💰 有低价档 | — | — | — |
+| [BootToken](https://apiranking.com/p/boottoken) | `boottoken.com` | Claude GPT Gemini | 💰 有低价档 | ¥10 | 支付宝 / 微信 | ✓ |
 
 *池内共 200 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
