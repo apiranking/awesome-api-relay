@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-10-25（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-10-26（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [万象](https://apiranking.com/p/wangxiangai-org) | `wangxiangai.org` | Claude GPT Gemini | 常规 | — | — | — |
-| [Umiluxury API](https://apiranking.com/p/umiluxury-com) | `umiluxury.com` | Claude GPT | 💰 有低价档 | — | — | — |
-| [Cavoti AI](https://apiranking.com/p/cavoti-ai) | `cavoti.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 / USDT / Stripe | — |
-| [三头牛](https://apiranking.com/p/36niu-com) | `36niu.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥7 | 微信 | ✓ |
 | [炒饭兽](https://apiranking.com/p/chaofanshou-com) | `chaofanshou.com` | Claude | 常规 | — | — | — |
 | [YunServer API](https://apiranking.com/p/api-yunserver-cn) | `api.yunserver.cn` | Claude GPT | 💰 有低价档 | — | — | — |
 | [Kkaiapi](https://apiranking.com/p/kkaiapi-com) | `kkaiapi.com` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
@@ -112,6 +108,10 @@
 | [Ekan8](https://apiranking.com/p/api-ekan8-com) | `api.ekan8.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
 | [Hyperapi](https://apiranking.com/p/hyperapi-cc) | `hyperapi.cc` | GPT | 加价为主 | — | — | — |
 | [IKunCode](https://apiranking.com/p/api-ikuncode-cc) | `api.ikuncode.cc` | Claude GPT Gemini | 💰 有低价档 | ¥1 | 支付宝 / 微信 | ✓ |
+| [Z-API](https://apiranking.com/p/api-zicc-cc) | `api.zicc.cc` | Claude GPT Gemini | 💰 有低价档 | — | 支付宝 / 微信 | — |
+| [TryAllAI](https://apiranking.com/p/api-tryallai-com) | `api.tryallai.com` | Claude GPT Gemini 🎨 | 加价为主 | — | — | ✓ |
+| [CodeSuc](https://apiranking.com/p/main-new-codesuc-top) | `main-new.codesuc.top` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
+| [Clauddy API](https://apiranking.com/p/clauddy-com) | `clauddy.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
 
 *池内共 200 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
