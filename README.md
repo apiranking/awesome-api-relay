@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-10-26（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-10-27（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [炒饭兽](https://apiranking.com/p/chaofanshou-com) | `chaofanshou.com` | Claude | 常规 | — | — | — |
-| [YunServer API](https://apiranking.com/p/api-yunserver-cn) | `api.yunserver.cn` | Claude GPT | 💰 有低价档 | — | — | — |
-| [Kkaiapi](https://apiranking.com/p/kkaiapi-com) | `kkaiapi.com` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
-| [星辰](https://apiranking.com/p/ai-centos-hk) | `ai.centos.hk` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 / Stripe | — |
 | [APIKEY.FUN](https://apiranking.com/p/api-apikey-fun) | `api.apikey.fun` | Claude | 💰 有低价档 | — | — | — |
 | [unity2](https://apiranking.com/p/unity2-ai) | `unity2.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 | ✓ |
 | [ClaudeAPI](https://apiranking.com/p/console-claudeapi-com) | `console.claudeapi.com` | Claude GPT | 常规 | — | — | — |
@@ -112,6 +108,10 @@
 | [TryAllAI](https://apiranking.com/p/api-tryallai-com) | `api.tryallai.com` | Claude GPT Gemini 🎨 | 加价为主 | — | — | ✓ |
 | [CodeSuc](https://apiranking.com/p/main-new-codesuc-top) | `main-new.codesuc.top` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
 | [Clauddy API](https://apiranking.com/p/clauddy-com) | `clauddy.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
+| [chatfire](https://apiranking.com/p/api-chatfire-cn) | `api.chatfire.cn` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
+| [Rehdasu API](https://apiranking.com/p/rehdasu-cn) | `rehdasu.cn` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
+| [Cun AI](https://apiranking.com/p/cun-ai) | `cun.ai` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
+| [v3](https://apiranking.com/p/api-v3-cm) | `api.v3.cm` | Claude GPT Gemini | 加价为主 | — | — | — |
 
 *池内共 200 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
