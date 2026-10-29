@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-10-28（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-10-29（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [ai98pro](https://apiranking.com/p/ai98pro) | `ai98pro.xyz` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
-| [Poixe AI](https://apiranking.com/p/poixe-com) | `poixe.com` | Claude GPT Gemini | 加价为主 | ¥5 | 支付宝 / 信用卡 | ✓ |
-| [Square API](https://apiranking.com/p/api-squarefaceicon-org) | `api.squarefaceicon.org` | Claude GPT 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
-| [CodingRouter](https://apiranking.com/p/codingrouter) | `api.codingrouter.ai` | Claude GPT Gemini 🎨 | 常规 | ¥10 | Stripe | — |
 | [黑黑](https://apiranking.com/p/heilovehei) | `heilovehei.com` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
 | [词元流动](https://apiranking.com/p/tokenflux-dev) | `tokenflux.dev` | GPT | 常规 | — | — | — |
 | [lucen](https://apiranking.com/p/lucen-cc) | `xixiapi.io` | Claude GPT | 💰 有低价档 | — | — | — |
@@ -112,6 +108,10 @@
 | [换API](https://apiranking.com/p/huanapi-com) | `huanapi.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
 | [CCTQ](https://apiranking.com/p/cctq) | `www.cctq.ai` | Claude GPT Gemini 🎨 | 常规 | ¥1 | 支付宝 | — |
 | [Aitechflux API](https://apiranking.com/p/aitechflux-com) | `aitechflux.com` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
+| [Pateway](https://apiranking.com/p/pateway) | `pateway.ai` | Claude GPT | 常规 | — | — | — |
+| [poloai](https://apiranking.com/p/poloai) | `poloai.top` | Claude Gemini | 💰 有低价档 | — | — | — |
+| [SwitchBase](https://apiranking.com/p/switchbase-vip) | `switchbase.vip` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
+| [boxying](https://apiranking.com/p/boxying) | `boxying.com` | Claude GPT 🎨 | 💰 有低价档 | ¥1 | 支付宝 / 微信 | ✓ |
 
 *池内共 200 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
