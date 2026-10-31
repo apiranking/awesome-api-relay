@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-10-30（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-10-31（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [ToCodex](https://apiranking.com/p/user-tocodex-com) | `user.tocodex.com` | Claude GPT Gemini | 常规 | ¥10 | 支付宝 | — |
-| [ClaudeApi](https://apiranking.com/p/claudeapi-com) | `apito.ai` | Claude GPT Gemini 🎨 | 加价为主 | $1 | Stripe | ✓ |
-| [Wytkt API](https://apiranking.com/p/wytkt-cn) | `wytkt.cn` | Claude GPT Gemini 🎨 | 加价为主 | — | — | — |
-| [GPTeam](https://apiranking.com/p/portal-gpteamservices-com) | `portal.gpteamservices.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥7 | 支付宝 / 微信 | — |
 | [AI8](https://apiranking.com/p/ai8-my) | `ai8.my` | Claude GPT 🎨 | 常规 | — | — | — |
 | [XTokenMirror](https://apiranking.com/p/xtokenmirror-cn) | `xtokenmirror.cn` | Claude GPT Gemini | 💰 有低价档 | — | — | — |
 | [Sublyx](https://apiranking.com/p/sublyx) | `sublyx.org` | Claude GPT 🎨 | 加价为主 | — | — | — |
@@ -112,6 +108,10 @@
 | [Privnode](https://apiranking.com/p/privnode-com) | `privnode.com` | Claude 🎨 | 常规 | — | — | — |
 | [ephone](https://apiranking.com/p/api-ephone-ai) | `api.ephone.ai` | Claude GPT | 常规 | — | — | — |
 | [GPT Agent](https://apiranking.com/p/gpt-agent-cc) | `gpt-agent.cc` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
+| [MaynorAPI](https://apiranking.com/p/apipro-maynor1024-live) | `apipro.maynor1024.live` | Claude Gemini | 加价为主 | — | — | — |
+| [cc.580ai.net](https://apiranking.com/p/cc-580ai-net) | `cc.580ai.net` | Claude GPT | 加价为主 | — | — | — |
+| [通API](https://apiranking.com/p/tongapi-com) | `tongapi.com` | Claude GPT Gemini | 常规 | — | — | — |
+| [一元模型](https://apiranking.com/p/timesniper-club) | `timesniper.club` | Claude GPT Gemini 🎨 | 加价为主 | — | — | — |
 
 *池内共 200 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
