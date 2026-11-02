@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-11-01（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-11-02（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [Suan Niao API](https://apiranking.com/p/api-suanniao-shop) | `api.suanniao.shop` | Claude GPT | 💰 有低价档 | — | — | — |
-| [EasyAI](https://apiranking.com/p/easyai-host) | `easyai.host` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
-| [Dadakeji API](https://apiranking.com/p/dadakeji-com) | `dadakeji.com` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
-| [ePhone AI](https://apiranking.com/p/ephone-ai) | `ephone.ai` | Claude GPT | 加价为主 | — | — | ✓ |
 | [synterolink](https://apiranking.com/p/synterolink) | `synterolink.com` | Claude GPT 🎨 | 💰 有低价档 | ¥20 | 支付宝 / 微信 / USDT | — |
 | [QweApi](https://apiranking.com/p/qweapi) | `qweapi.com` | Claude GPT 🎨 | 常规 | — | — | — |
 | [9527code](https://apiranking.com/p/9527code-com) | `9527code.com` | Claude GPT 🎨 | 💰 有低价档 | ¥1 | 支付宝 | ✓ |
@@ -112,6 +108,10 @@
 | [Undying](https://apiranking.com/p/vip-undyingapi-com) | `vip.undyingapi.com` | Claude Gemini | 加价为主 | — | — | — |
 | [SSSAICode](https://apiranking.com/p/sssaicode-com) | `sssaiapi.com` | Claude GPT Gemini | 💰 有低价档 | ¥10 | 支付宝 / USDT | ✓ |
 | [Xcode](https://apiranking.com/p/xcode-best) | `xcode.best` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 | ✓ |
+| [汪汪の中转站](https://apiranking.com/p/qianweikeji-fun) | `qianweikeji.fun` | Claude GPT | 加价为主 | — | — | — |
+| [Uiuihao API](https://apiranking.com/p/api-uiuihao-com) | `api.uiuihao.com` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
+| [我的刀盾](https://apiranking.com/p/daodunapi-com) | `daodunapi.com` | Claude | 加价为主 | — | — | — |
+| [api.68886868.xyz](https://apiranking.com/p/api-68886868-xyz) | `api.68886868.xyz` | Claude GPT Gemini | 常规 | — | — | — |
 
 *池内共 200 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
