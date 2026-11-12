@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-11-11（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-11-12（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [小水管](https://apiranking.com/p/pie-xian-com) | `api.pie-xian.com` | — | — | — | — | — |
-| [Qiny API](https://apiranking.com/p/chatnewai-com) | `openai.chatnewai.com` | Claude GPT Gemini 🎨 | 加价为主 | — | — | — |
-| [ZZ OneAPI Console](https://apiranking.com/p/zzone-cc-cd) | `zzone.cc.cd` | Claude GPT Gemini 🎨 | — | — | — | — |
-| [OneChats](https://apiranking.com/p/chatapi-onechats-top) | `chatapi.onechats.top` | Claude GPT Gemini 🎨 | 常规 | ¥1 | 支付宝 | — |
 | [PackyCode](https://apiranking.com/p/packyapi-com) | `www.packyapi.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥100 | 信用卡 / App | ✓ |
 | [XingWan Club](https://apiranking.com/p/xingwan-store) | `xingwan.store` | Claude GPT | — | — | — | — |
 | [DeRouter](https://apiranking.com/p/derouter-ai) | `derouter.ai` | Claude GPT | 常规 | — | 支付宝 | — |
@@ -112,6 +108,10 @@
 | [TeamoRouter](https://apiranking.com/p/teamorouter-cn) | `teamorouter.cn` | — | — | — | — | — |
 | [cc.honoursoft.cn](https://apiranking.com/p/cc-honoursoft-cn) | `cc.honoursoft.cn` | Claude | 加价为主 | — | — | — |
 | [Apilio](https://apiranking.com/p/apilio-ai) | `apilio.ai` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
+| [Kedaya AI 中转站](https://apiranking.com/p/kedaya-ai) | `kedaya.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
+| [MM API](https://apiranking.com/p/slomerex-xyz) | `api.slomerex.xyz` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
+| [Lanln](https://apiranking.com/p/venlacy-com) | `ai.venlacy.com` | Claude GPT 🎨 | 加价为主 | — | — | — |
+| [jojocode](https://apiranking.com/p/jojocode) | `jojocode.com` | Claude GPT | 💰 有低价档 | — | Stripe | — |
 
 *池内共 440 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
