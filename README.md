@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-11-13（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-11-14（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [BUZZ](https://apiranking.com/p/buzzai-cc) | `buzzai.cc` | Claude GPT | 💰 有低价档 | ¥1 | 支付宝 / 微信 / USDT | ✓ |
-| [Tokeness](https://apiranking.com/p/tokeness-ai) | `tokeness.ai` | — | — | — | — | — |
-| [For API](https://apiranking.com/p/foropencode-com) | `foropencode.com` | Claude GPT 🎨 | 常规 | — | 支付宝 | — |
-| [CherryIN](https://apiranking.com/p/cherryin-ai) | `open.cherryin.ai` | Gemini | — | — | — | — |
 | [UnoRouter](https://apiranking.com/p/unorouter-com) | `unorouter.com` | Claude GPT Gemini | 常规 | $1 | Card / Google & Apple Pay / 支付宝 / 加密货币 | — |
 | [AiHao - AI智能体的加油站](https://apiranking.com/p/aihao-ai) | `aihao.ai` | GPT Gemini 🎨 | 加价为主 | — | — | — |
 | [deepkey](https://apiranking.com/p/deepkey-top) | `deepkey.top` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥5 | 支付宝 / 微信 / USDT / 加密货币 | ✓ |
@@ -112,6 +108,10 @@
 | [柏API](https://apiranking.com/p/byeapi-top) | `byeapi.top` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 支付宝 | — |
 | [Traxnode](https://apiranking.com/p/traxnode-com) | `traxnode.com` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
 | [哩喵中转栈](https://apiranking.com/p/limiao-net) | `limiao.net` | Claude GPT Gemini | 💰 有低价档 | — | — | — |
+| [BANK OF TOKEN](https://apiranking.com/p/boft-ai) | `supply.boft.ai` | Claude GPT Gemini | 💰 有低价档 | ¥1 | easypay | — |
+| [维塔斯 AI](https://apiranking.com/p/aiwts-com) | `aiwts.com` | Claude GPT Gemini 🎨 | — | ¥10 | 支付宝 / 微信 | ✓ |
+| [VideoCaptioner API](https://apiranking.com/p/videocaptioner-cn) | `videocaptioner.cn` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
+| [BootToken](https://apiranking.com/p/boottoken) | `boottoken.com` | Claude GPT Gemini | 💰 有低价档 | ¥10 | 支付宝 / 微信 | ✓ |
 
 *池内共 440 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
