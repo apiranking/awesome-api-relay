@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-11-14（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-11-15（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [UnoRouter](https://apiranking.com/p/unorouter-com) | `unorouter.com` | Claude GPT Gemini | 常规 | $1 | Card / Google & Apple Pay / 支付宝 / 加密货币 | — |
-| [AiHao - AI智能体的加油站](https://apiranking.com/p/aihao-ai) | `aihao.ai` | GPT Gemini 🎨 | 加价为主 | — | — | — |
-| [deepkey](https://apiranking.com/p/deepkey-top) | `deepkey.top` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥5 | 支付宝 / 微信 / USDT / 加密货币 | ✓ |
-| [Rainbow Gate AI](https://apiranking.com/p/rainbowgate-top) | `rainbowgate.top` | Claude GPT 🎨 | 常规 | — | 支付宝 | — |
 | [codesonline](https://apiranking.com/p/mx-free-codesonline-dev) | `mx.free.codesonline.dev` | Claude GPT | 常规 | — | — | — |
 | [HUBWAY](https://apiranking.com/p/hubway-cc) | `hubway.cc` | GPT Gemini | 常规 | — | — | — |
 | [菜鸟AI](https://apiranking.com/p/buddybackend-cloud) | `buddybackend.cloud` | Claude GPT Gemini | — | — | — | — |
@@ -112,6 +108,10 @@
 | [维塔斯 AI](https://apiranking.com/p/aiwts-com) | `aiwts.com` | Claude GPT Gemini 🎨 | — | ¥10 | 支付宝 / 微信 | ✓ |
 | [VideoCaptioner API](https://apiranking.com/p/videocaptioner-cn) | `videocaptioner.cn` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
 | [BootToken](https://apiranking.com/p/boottoken) | `boottoken.com` | Claude GPT Gemini | 💰 有低价档 | ¥10 | 支付宝 / 微信 | ✓ |
+| [USA-零](https://apiranking.com/p/usa0-top) | `usa0.top` | Claude GPT Gemini | 💰 有低价档 | ¥1 | easypay | — |
+| [Mirgo](https://apiranking.com/p/mirgo-top) | `mirgo.top` | Claude GPT Gemini | — | — | — | — |
+| [哈基米 API](https://apiranking.com/p/lanxiu-cc) | `lanxiu.cc` | Gemini 🎨 | 💰 有低价档 | — | — | — |
+| [烁](https://apiranking.com/p/h-e-top) | `elysiver.h-e.top` | — | — | — | — | — |
 
 *池内共 440 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
