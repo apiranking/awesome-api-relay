@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-11-15（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-11-16（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,10 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [codesonline](https://apiranking.com/p/mx-free-codesonline-dev) | `mx.free.codesonline.dev` | Claude GPT | 常规 | — | — | — |
-| [HUBWAY](https://apiranking.com/p/hubway-cc) | `hubway.cc` | GPT Gemini | 常规 | — | — | — |
-| [菜鸟AI](https://apiranking.com/p/buddybackend-cloud) | `buddybackend.cloud` | Claude GPT Gemini | — | — | — | — |
-| [STA1N API](https://apiranking.com/p/sta1n-cn) | `cdn.sta1n.cn` | Gemini | — | — | — | — |
 | [Micu](https://apiranking.com/p/micuapi-ai) | `micuapi.ai` | Claude GPT Gemini | 💰 有低价档 | ¥50 | 支付宝 / 微信 | ✓ |
 | [Bool](https://apiranking.com/p/booltoken-com) | `booltoken.com` | Claude GPT | 💰 有低价档 | — | 支付宝 / 微信 | — |
 | [Cooper-API](https://apiranking.com/p/cooper-api-com) | `cooper-api.com` | Claude GPT Gemini 🎨 | 常规 | ¥7 | 微信 | — |
@@ -112,6 +108,10 @@
 | [Mirgo](https://apiranking.com/p/mirgo-top) | `mirgo.top` | Claude GPT Gemini | — | — | — | — |
 | [哈基米 API](https://apiranking.com/p/lanxiu-cc) | `lanxiu.cc` | Gemini 🎨 | 💰 有低价档 | — | — | — |
 | [烁](https://apiranking.com/p/h-e-top) | `elysiver.h-e.top` | — | — | — | — | — |
+| [ZEN-AI](https://apiranking.com/p/zen-ai-top) | `zen-ai.top` | Claude GPT Gemini | 加价为主 | — | — | — |
+| [Ekan8](https://apiranking.com/p/api-ekan8-com) | `api.ekan8.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
+| [小波 API](https://apiranking.com/p/iisbo-com) | `iai.iisbo.com` | 🎨 | — | — | — | — |
+| [HaoAI](https://apiranking.com/p/hao-ai) | `hao.ai` | Claude GPT | — | — | — | — |
 
 *池内共 440 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
