@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-11-20（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-11-21（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,11 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [小丁AI](https://apiranking.com/p/xdcn-top) | `xdcn.top` | Claude GPT Gemini | — | ¥1 | 支付宝 | — |
-| [云枢 API](https://apiranking.com/p/nextpro-top) | `nextpro.top` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
-| [HoHoApi](https://apiranking.com/p/hohoapi) | `hohoapi.com` | Claude GPT Gemini 🎨 | 加价为主 | — | — | — |
-| [ai.bytonsec.com](https://apiranking.com/p/ai-bytonsec-com) | `ai.bytonsec.com` | Claude Gemini | 加价为主 | — | — | — |
-| [APINebula](https://apiranking.com/p/apinebula-com) | `apinebula.ai` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥20 | 支付宝 | ✓ |
 | [Xyusec API](https://apiranking.com/p/xyusec-com) | `xyusec.com` | Claude GPT | 💰 有低价档 | — | — | — |
 | [TeamoRouter](https://apiranking.com/p/teamorouter-cn) | `teamorouter.cn` | — | — | — | — | — |
 | [Apilio](https://apiranking.com/p/apilio-ai) | `apilio.ai` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
@@ -112,8 +107,13 @@
 | [api.68886868.xyz](https://apiranking.com/p/api-68886868-xyz) | `api.68886868.xyz` | Claude GPT Gemini | 常规 | — | — | — |
 | [SU8 Codes](https://apiranking.com/p/su8-codes) | `su8.codes` | Claude GPT | — | — | — | — |
 | [魔方公益站](https://apiranking.com/p/mofas-one) | `mofas.one` | GPT | 💰 有低价档 | — | — | — |
+| [Neco Api](https://apiranking.com/p/api-sbbbbbbbbb-xyz) | `api.sbbbbbbbbb.xyz` | Claude GPT 🎨 | 加价为主 | — | — | — |
+| [VBCode.io](https://apiranking.com/p/vbcode-io) | `vbcode.io` | Claude GPT Gemini 🎨 | 加价为主 | — | — | — |
+| [27API](https://apiranking.com/p/27api-com) | `27api.com` | Gemini | — | ¥1 | — | — |
+| [kksj](https://apiranking.com/p/cnapi-kksj-org) | `cnapi.kksj.org` | Claude GPT Gemini 🎨 | 常规 | — | — | — |
+| [xinsuanai](https://apiranking.com/p/xinsuanai) | `xinsuanai.com` | Claude GPT Gemini | 加价为主 | — | 微信 | — |
 
-*池内共 392 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
+*池内共 391 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
 ## 怎么用这张表
 
