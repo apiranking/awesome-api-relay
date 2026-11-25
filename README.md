@@ -1,6 +1,6 @@
 # Awesome API Relay · AI API 中转站精选 100
 
-> 最后更新：2026-11-24（每日自动更新）· 建议 Star 追踪
+> 最后更新：2026-11-25（每日自动更新）· 建议 Star 追踪
 
 **按模型比价格倍率** → [Claude 中转站](https://apiranking.github.io/relay-prices/claude/) · [Claude Code 中转站](https://apiranking.github.io/relay-prices/claude-code/) · [GPT 中转站](https://apiranking.github.io/relay-prices/gpt/) · [Gemini 中转站](https://apiranking.github.io/relay-prices/gemini/) · [Grok 中转站](https://apiranking.github.io/relay-prices/grok/) · [DeepSeek 中转站](https://apiranking.github.io/relay-prices/deepseek/)
 
@@ -12,16 +12,6 @@
 
 | 站点 | 官网 | 模型 | 价格档 | 起充 | 支付 | 开票 |
 |---|---|---|---|---|---|---|
-| [VideoCaptioner API](https://apiranking.com/p/videocaptioner-cn) | `videocaptioner.cn` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
-| [BootToken](https://apiranking.com/p/boottoken) | `boottoken.com` | Claude GPT Gemini | 💰 有低价档 | ¥10 | 支付宝 / 微信 | ✓ |
-| [USA-零](https://apiranking.com/p/usa0-top) | `usa0.top` | Claude GPT Gemini | 💰 有低价档 | ¥1 | easypay | — |
-| [Mirgo](https://apiranking.com/p/mirgo-top) | `mirgo.top` | Claude GPT Gemini | — | — | — | — |
-| [哈基米 API](https://apiranking.com/p/lanxiu-cc) | `lanxiu.cc` | Gemini 🎨 | 💰 有低价档 | — | — | — |
-| [烁](https://apiranking.com/p/h-e-top) | `elysiver.h-e.top` | — | — | — | — | — |
-| [ZEN-AI](https://apiranking.com/p/zen-ai-top) | `zen-ai.top` | Claude GPT Gemini | 加价为主 | — | — | — |
-| [小波 API](https://apiranking.com/p/iisbo-com) | `iai.iisbo.com` | 🎨 | — | — | — | — |
-| [HaoAI](https://apiranking.com/p/hao-ai) | `hao.ai` | Claude GPT | — | — | — | — |
-| [Hi-Code](https://apiranking.com/p/hi-code-cc) | `hi-code.cc` | Claude GPT | — | — | — | ✓ |
 | [云渡](https://apiranking.com/p/yundu-lol) | `yundu.lol` | Claude GPT Gemini | 💰 有低价档 | ¥10 | 支付宝 / easypay / wxpay | — |
 | [Hyperapi](https://apiranking.com/p/hyperapi-cc) | `hyperapi.cc` | GPT | 加价为主 | — | — | — |
 | [IKunCode](https://apiranking.com/p/api-ikuncode-cc) | `api.ikuncode.cc` | Claude GPT Gemini | 💰 有低价档 | ¥1 | 支付宝 / 微信 | ✓ |
@@ -79,7 +69,6 @@
 | [通API](https://apiranking.com/p/tongapi-com) | `tongapi.com` | Claude GPT Gemini | 常规 | — | — | — |
 | [柴犬Claude&Codex](https://apiranking.com/p/wucur-com) | `wucur.com` | 🎨 | — | — | — | — |
 | [星空API](https://apiranking.com/p/inxk-com) | `inxk.com` | — | — | — | — | — |
-| [A6API](https://apiranking.com/p/a6api) | `a6api.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
 | [Vilao AI](https://apiranking.com/p/vilao-ai) | `vilao.ai` | Claude | — | — | — | — |
 | [云智AI-稳定可靠](https://apiranking.com/p/yzcld-com) | `yzcld.com` | Claude GPT Gemini 🎨 | — | — | — | — |
 | [SSSAICode](https://apiranking.com/p/sssaicode-com) | `sssaiapi.com` | Claude GPT Gemini | 常规 | ¥10 | 支付宝 / USDT | ✓ |
@@ -93,7 +82,6 @@
 | [Uiuihao API](https://apiranking.com/p/api-uiuihao-com) | `api.uiuihao.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | — | — | — |
 | [api.68886868.xyz](https://apiranking.com/p/api-68886868-xyz) | `api.68886868.xyz` | Claude GPT Gemini | 常规 | — | — | — |
 | [SU8 Codes](https://apiranking.com/p/su8-codes) | `su8.codes` | Claude GPT | — | — | — | — |
-| [魔方公益站](https://apiranking.com/p/mofas-one) | `mofas.one` | GPT | 💰 有低价档 | — | — | — |
 | [Neco Api](https://apiranking.com/p/api-sbbbbbbbbb-xyz) | `api.sbbbbbbbbb.xyz` | Claude GPT 🎨 | 加价为主 | — | — | — |
 | [VBCode.io](https://apiranking.com/p/vbcode-io) | `vbcode.io` | Claude GPT Gemini 🎨 | 加价为主 | — | — | — |
 | [27API](https://apiranking.com/p/27api-com) | `27api.com` | Gemini | — | ¥1 | — | — |
@@ -112,8 +100,20 @@
 | [DIT.ai](https://apiranking.com/p/dit-ai) | `dit.ai` | Gemini | 加价为主 | — | — | — |
 | [MWAPI](https://apiranking.com/p/mwapi-dev) | `api.mwapi.dev` | Claude | — | — | — | — |
 | [fluapi](https://apiranking.com/p/fluapi) | `fluapi.com` | Claude GPT | 加价为主 | — | — | — |
+| [Kun-Api](https://apiranking.com/p/kunkun666-com) | `kunkun666.com` | Claude GPT | 💰 有低价档 | ¥1 | 支付宝 | — |
+| [BMCCA](https://apiranking.com/p/cca-maya-today) | `cca.maya.today` | Claude GPT | 💰 有低价档 | ¥1 | 支付宝 / 微信 | — |
+| [OpenModel](https://apiranking.com/p/openmodel-ai) | `openmodel.ai` | Claude | — | — | — | — |
+| [ClaudeCN](https://apiranking.com/p/claudecn-top) | `claudecn.top` | Claude GPT Gemini | 常规 | — | — | — |
+| [Crazyrouter](https://apiranking.com/p/crazyrouter-com) | `crazyrouter.com` | Claude GPT Gemini 🎨 | 加价为主 | — | — | — |
+| [卡皮巴拉API](https://apiranking.com/p/kapibala-asia) | `kapibala.asia` | Claude GPT 🎨 | 💰 有低价档 | ¥3 | 支付宝 | ✓ |
+| [AI Prime Tech](https://apiranking.com/p/aiprimetech-io) | `aiprimetech.io` | Claude GPT | 💰 有低价档 | ¥1 | Stripe / enot | — |
+| [Codeagent API](https://apiranking.com/p/codeagent-cloud) | `codeagent.cloud` | Claude GPT 🎨 | 常规 | — | — | — |
+| [SuperCodes](https://apiranking.com/p/supercodes-vip) | `supercodes.vip` | Claude GPT 🎨 | 💰 有低价档 | — | — | — |
+| [hiapi](https://apiranking.com/p/hiapi-ai) | `hiapi.ai` | Claude GPT 🎨 | — | — | — | — |
+| [睿库API](https://apiranking.com/p/rkapi-com) | `rkapi.com` | GPT Gemini 🎨 | 加价为主 | — | — | — |
+| [corealgos](https://apiranking.com/p/corealgos) | `corealgos.com` | Claude GPT Gemini 🎨 | 💰 有低价档 | ¥1 | 微信 | — |
 
-*池内共 390 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
+*池内共 385 家有公开价格数据的站点参与轮换 · 每日更换 4 家*
 
 ## 怎么用这张表
 
